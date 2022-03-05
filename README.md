@@ -1,6 +1,6 @@
 # Microprocessors-Systems-Project
 ## Info.
--The game is written in x86 assembly language for Microprocessors.
+- The game is written in x86 assembly language for Microprocessors.
 - Project includes a "Processor Simulation Game", a "Chat Module" and a "Small-Scale Gun Game.
 
 ## Project description manual (pdf):
